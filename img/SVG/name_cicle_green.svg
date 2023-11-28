@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195.33 195.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #51733f;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Lobster-Regular, Lobster;
+        font-size: 112.69px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <circle class="cls-1" cx="97.67" cy="97.67" r="97.67"/>
+      <text class="cls-2" transform="translate(6.96 133.4) scale(.98 1)"><tspan x="0" y="0">LHR</tspan></text>
+    </g>
+  </g>
+</svg>

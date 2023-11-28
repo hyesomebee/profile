@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 329.15 191.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-3 {
+        fill: #b1c0a0;
+      }
+
+      .cls-4 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        font-family: JeonjuCraftGoR, JeonjuCraft_Go;
+        font-size: 36px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <circle class="cls-3" cx="16.26" cy="16.26" r="16.26"/>
+      <circle class="cls-3" cx="22.4" cy="68.2" r="16.26"/>
+      <circle class="cls-3" cx="48.65" cy="117.99" r="16.26"/>
+      <circle class="cls-3" cx="81.89" cy="158.22" r="16.26"/>
+      <circle class="cls-1" cx="134.11" cy="174.92" r="16.26"/>
+      <circle class="cls-1" cx="312.88" cy="16.26" r="16.26"/>
+      <circle class="cls-1" cx="306.75" cy="68.2" r="16.26"/>
+      <circle class="cls-1" cx="280.5" cy="117.99" r="16.26"/>
+      <circle class="cls-1" cx="240.12" cy="158.22" r="16.26"/>
+      <circle class="cls-1" cx="187.19" cy="174.92" r="16.26"/>
+      <text class="cls-8" transform="translate(55.78 68.7)"><tspan class="cls-6" x="0" y="0">J</tspan><tspan class="cls-2" x="21.28" y="0">A</tspan><tspan class="cls-4" x="44.46" y="0">V</tspan><tspan class="cls-6" x="65.63" y="0">A</tspan><tspan class="cls-7" x="91.15" y="0">SCRI</tspan><tspan class="cls-5" x="175.79" y="0">P</tspan><tspan x="199.8" y="0">T </tspan></text>
+    </g>
+  </g>
+</svg>

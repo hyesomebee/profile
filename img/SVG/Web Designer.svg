@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56.5 8.73">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-3 {
+        fill: #a4a59e;
+        font-family: NanumSquareNeovariable-Regular, 'NanumSquare Neo variable';
+        font-size: 8px;
+        font-variation-settings: 'wght' 300;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-3" transform="translate(0 6.38)"><tspan class="cls-2" x="0" y="0">W</tspan><tspan x="8.19" y="0">eb D</tspan><tspan class="cls-1" x="26.51" y="0">e</tspan><tspan x="31.46" y="0">s</tspan><tspan class="cls-5" x="36.01" y="0">i</tspan><tspan class="cls-4" x="38.02" y="0">gner</tspan></text>
+  </g>
+</svg>

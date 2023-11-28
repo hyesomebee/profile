@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: H2gtrE, HYGothic-Extra;
+        font-size: 12px;
+        letter-spacing: -.13em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <path d="M2,18c-.55,0-1.02-.2-1.41-.59-.39-.39-.59-.86-.59-1.41V2C0,1.45,.2,.98,.59,.59c.39-.39,.86-.59,1.41-.59h14c.55,0,1.02,.2,1.41,.59s.59,.86,.59,1.41v14c0,.55-.2,1.02-.59,1.41-.39,.39-.86,.59-1.41,.59H2Zm0-2h14V2H2v14Z"/>
+      <text class="cls-1" transform="translate(2 14.13)"><tspan x="0" y="0">Ps</tspan></text>
+    </g>
+  </g>
+</svg>
