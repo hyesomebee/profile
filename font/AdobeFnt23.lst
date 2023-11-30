@@ -1,0 +1,63 @@
+%!Adobe-FontList 1.23
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JeonjuCraftMjB
+FamilyName:JeonjuCraft_Mj
+StyleName:Bold
+FullName:JeonjuCraft_Mj Bold
+MenuName:전주공예명조체 Bold
+StyleBits:0
+FamilyNameNative:전주공예명조체
+StyleNameNative:Bold
+FullNameNative:전주공예명조체 Bold
+WritingScript:Korean
+OutlineFileName:D:\이혜리_7기\portfolio\Font\JeonjuCraft_Mj_Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1630340
+FileModTime:1688815810
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,JeonjuCraft_Mj Bold
+NameArray:3,Mac,4,전주공예명조체 Bold
+NameArray:0,Win,1,JeonjuCraft_Mj Bold
+NameArray:0,Win,16,JeonjuCraft_Mj
+NameArray:3,Win,1,전주공예명조체 Bold
+NameArray:3,Win,16,전주공예명조체
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JeonjuCraftMjL
+FamilyName:JeonjuCraft_Mj
+StyleName:Light
+FullName:JeonjuCraft_Mj Light
+MenuName:전주공예명조체 Light
+StyleBits:0
+FamilyNameNative:전주공예명조체
+StyleNameNative:Light
+FullNameNative:전주공예명조체 Light
+WritingScript:Korean
+OutlineFileName:D:\이혜리_7기\portfolio\Font\JeonjuCraft_Mj_Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1675048
+FileModTime:1688815810
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,JeonjuCraft_Mj Light
+NameArray:3,Mac,4,전주공예명조체 Light
+NameArray:0,Win,1,JeonjuCraft_Mj Light
+NameArray:0,Win,16,JeonjuCraft_Mj
+NameArray:3,Win,1,전주공예명조체 Light
+NameArray:3,Win,16,전주공예명조체
+%EndFont
+
