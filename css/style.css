@@ -330,6 +330,7 @@ header{
 .redesignSite{
     border: 1px solid #889b74;
     background: #889b74;
+    opacity: 0.8;
     border-radius: 45PX;
     padding: 2%;
 }
