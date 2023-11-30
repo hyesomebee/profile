@@ -1,6 +1,6 @@
 *{margin: 0; padding: 0;}
 ul,ol{list-style: none;}
-a{flex-direction: none; color: inherit;}
+a{text-decoration: none; color: inherit;}
 h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: inherit;}
 b,strong{font-weight: inherit;}
 em,i,address{font-style: inherit;}
